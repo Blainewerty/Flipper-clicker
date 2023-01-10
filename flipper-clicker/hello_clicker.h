@@ -1,0 +1,1 @@
+#define __THROW __attribute__ ((__nothrow__ __LEAF))
